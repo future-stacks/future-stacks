@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @future-stacks
-- 👀 I’m interested in cloud computing and robotics
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on C# and RPA 
+- 👀 I’m interested in DevOps Engineering
+- 🌱 I’m currently learning Software Engineering with ALX
+- 💞️ I’m looking to collaborate on JAVA and PYTHON
 - 📫 How to reach me futurehopesaviour@gmail.com
 
 <!---
