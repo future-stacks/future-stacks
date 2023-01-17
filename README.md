@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Software Engineering with ALX
 - 💞️ I’m looking to collaborate on JAVA and PYTHON
 - 📫 How to reach me futurehopesaviour@gmail.com
+- [![GitHub Streak](https://streak-stats.demolab.com/?user=future-stacks)](https://git.io/streak-stats)
 
 <!---
 future-stacks/future-stacks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
