@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 FrontEnd Developer| DevOps Engineer
 -----------------------------------
 
-A passionate DevOps enthusiast who has dedicated significant time and effort to learning and honing skills in software engineering. My ultimate goal is to secure a DevOps role, where you can apply your knowledge and expertise in bridging the gap between software development and IT operations. Looking forward to my first DevOps role in Nov, 2023.
+A passionate DevOps enthusiast who has dedicated significant time and effort to learning and honing skills in software engineering. My ultimate goal is to secure a DevOps role, where I can apply my knowledge and expertise in bridging the gap between software development and IT operations. Looking forward to my first DevOps role in Nov, 2023.
 
 *   🌍  I'm based in Lagos, Nigeria
 *   ✉️  You can contact me at [futurehopesaviour@gmail.com](mailto:futurehopesaviour@gmail.com)
