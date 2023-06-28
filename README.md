@@ -35,11 +35,11 @@ A passionate DevOps enthusiast who has dedicated significant time and effort to 
 </p>
 
 ### Badges
+<b>My GitHub Stats</b>
 
-<p align="left">
-<b>My GitHub Stats</b><a
-href="http://www.github.com/future-stacks"><img src="https://github-readme-stats.vercel.app/api?username=future-stacks&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=0f172a&hide_border=true&show_icons=true" alt="future-stacks's GitHub stats" /></a><a href="https://github.com/future-stacks" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=future-stacks&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-</p>
+<a href="http://www.github.com/future-stacks"><img src="https://github-readme-stats.vercel.app/api?username=future-stacks&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=0f172a&hide_border=true&show_icons=true" alt="future-stacks's GitHub stats" /></a>
+
+<a href="https://github.com/future-stacks" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=future-stacks&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <!---
 future-stacks/future-stacks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
