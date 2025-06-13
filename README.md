@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hope Akpabio
 ====================================================================================================================================
 
-FrontEnd Developer| DevOps Engineer
+DevOps Engineer
 -----------------------------------
 
 A passionate DevOps engineer who has dedicated significant time and effort to learning and honing skills in software engineering. My ultimate goal is to secure a DevOps role, where I can apply my knowledge and expertise in bridging the gap between software development and IT operations.
