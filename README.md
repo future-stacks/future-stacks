@@ -85,15 +85,6 @@ Collaborative infrastructure and deployment configuration project.
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=future-stacks&show_icons=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=future-stacks&layout=compact" />
-</p>
-
----
-
 <div align="center">
 
 ### Building reliable infrastructure. Automating everything. 🚀
