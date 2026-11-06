@@ -1,92 +1,57 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:6A5ACD&height=240&section=header&text=Hope%20Akpabio&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%7C%20DevOps%20Engineer%20%7C%20MSc%20Computer%20Science%20Candidate&descAlignY=58" />
+# Hope Akpabio
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Cloud+%26+DevOps+Engineer;MSc+Computer+Science+Candidate;Azure+DevOps+%7C+Kubernetes+%7C+Rancher;Infrastructure+as+Code+%7C+CI%2FCD+Automation;Platform+Engineering+%7C+DevSecOps;Cloud+Infrastructure+%7C+Linux+%7C+Automation" />
+**Cloud & DevOps Engineer · Platform Engineering · Kubernetes Security**
 
-</div>
-
----
-
-# Hi 👋 I'm Hope Akpabio
-
-## Cloud & DevOps Engineer | MSc Computer Science Candidate
-
-Cloud and DevOps engineer with experience supporting enterprise environments and building hands-on cloud infrastructure projects. My background includes Azure DevOps, CI/CD automation, repository access management, vulnerability management, Kubernetes administration with Rancher, and cloud-native tooling.
-
-I am currently pursuing an MSc in Computer Science while expanding my expertise in platform engineering, Infrastructure as Code, cloud architecture, and DevSecOps.
-
----
-
-## About Me
-
-- 🌍 Based in England
-- 🎓 MSc Computer Science Candidate
-- ☁️ Building cloud and DevOps projects
-- 🔧 Working with Azure DevOps, Kubernetes, Rancher, Linux, and automation tooling
-- 🚀 Open to DevOps, Cloud Engineer, and Platform Engineer opportunities
-- ✉️ Reach me at: [futurehopesaviour@gmail.com](futurehopesaviour@gmail.com)
-
----
-
-## Core Technologies
-
-### Cloud & DevOps
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,linux,githubactions,bash,git" />
-</p>
-
-### Programming & Automation
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,powershell" />
-</p>
-
----
-
-## Currently Focusing On
-
-- Infrastructure as Code
-- Kubernetes and Container Orchestration
-- CI/CD Automation
-- Cloud Platform Engineering
-- DevSecOps Practices
-- Observability and Monitoring
-
----
-
-## Featured Repositories
-
-### CloudLaunch
-
-Cloud infrastructure deployment project demonstrating automation and cloud fundamentals.
-
-### AltSchool Project 2
-
-Infrastructure provisioning and configuration project.
-
-### SprintFixer Infrastructure
-
-Collaborative infrastructure and deployment configuration project.
-
----
-
-## Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/hope-akpabio-69303b178">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://github.com/future-stacks">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-</p>
-
----
-
-<div align="center">
-
-### Building reliable infrastructure. Automating everything. 🚀
+[Website](https://hopesaviour.com/) · [Technical writing](https://hopesaviour.com/) · [LinkedIn](https://www.linkedin.com/in/hope-akpabio-69303b178/)
 
 </div>
+
+---
+
+## About
+
+I'm a Cloud and DevOps Engineer with experience supporting enterprise technology environments and building cloud-native projects. My work has included Azure DevOps, CI/CD automation, Kubernetes administration with Rancher, vulnerability management, and operational support.
+
+I hold an **MSc in Computer Science** from Buckinghamshire New University and a **BEng in Food Engineering**. My postgraduate research explored Kubernetes runtime security in AWS EKS, including practical hardening approaches and the role of observability in detecting runtime risks.
+
+I'm interested in building reliable platforms, improving delivery workflows, and making infrastructure more secure and observable.
+
+## Focus areas
+
+- **Cloud & infrastructure:** Azure, AWS fundamentals, Linux, networking
+- **Containers & platforms:** Docker, Kubernetes, Rancher
+- **Delivery & automation:** Azure DevOps, GitHub Actions, CI/CD, Bash, Python
+- **Security & reliability:** Kubernetes security, vulnerability management, observability
+- **Current learning direction:** AWS DevOps and Platform Engineering, Infrastructure as Code
+
+## Selected projects
+
+| Project | What it demonstrates |
+|---|---|
+| [MoodLens V1.1](https://github.com/future-stacks/moodlens-V1.1) | A React-based application exploring AI-assisted, action-oriented mood support. |
+| [CloudLaunch](https://github.com/future-stacks/cloudlaunch) | AWS infrastructure concepts including S3, CloudFront, IAM and network segmentation. |
+| [BNU Accommodation Portal](https://github.com/future-stacks/programmingforbusinessCW) | A Node.js, Express and MySQL web application with role-based student and admin workflows. |
+| [UNRESOLVED](https://hopesaviour.com/) | Technical writing and experiments on infrastructure, cloud, observability and security. |
+
+## Research
+
+My MSc dissertation focused on **Kubernetes runtime security in AWS EKS**. It examined hardening strategies including RBAC, network policies, mutual TLS/service-mesh controls, and eBPF-based runtime observability.
+
+The next step is to publish the supporting security lab and make the implementation, test evidence, and design decisions available here.
+
+## Certifications
+
+- Kubernetes and Cloud Native Associate (KCNA)
+- Microsoft Azure Data Fundamentals (DP-900)
+
+## What I'm working towards
+
+I'm deepening my AWS, Infrastructure as Code, and platform engineering skills while continuing to build and document practical projects. I value clear technical writing, reproducible experiments, and evidence over tool lists.
+
+## Connect
+
+- Website: https://hopesaviour.com/
+- LinkedIn: https://www.linkedin.com/in/hope-akpabio-69303b178/
+- Email: futurehopesaviour@gmail.com
