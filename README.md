@@ -23,6 +23,7 @@ I'm interested in building reliable platforms, improving delivery workflows, and
 - **Cloud & infrastructure:** Azure, AWS fundamentals, Linux, networking
 - **Containers & platforms:** Docker, Kubernetes, Rancher
 - **Delivery & automation:** Azure DevOps, GitHub Actions, CI/CD, Bash, Python
+- **Application development:** SwiftUI, React, Node.js, Express
 - **Security & reliability:** Kubernetes security, vulnerability management, observability
 - **Current learning direction:** AWS DevOps and Platform Engineering, Infrastructure as Code
 
@@ -30,6 +31,7 @@ I'm interested in building reliable platforms, improving delivery workflows, and
 
 | Project | What it demonstrates |
 |---|---|
+| [gainwithHope](https://github.com/future-stacks/gainwithHope) | A native SwiftUI workout tracker for iPhone with an Apple Watch companion, SwiftData persistence, HealthKit and WatchConnectivity integration. Watch installation and end-to-end HealthKit behavior are still being validated on-device. |
 | [MoodLens V1.1](https://github.com/future-stacks/moodlens-V1.1) | A React-based application exploring AI-assisted, action-oriented mood support. |
 | [CloudLaunch](https://github.com/future-stacks/cloudlaunch) | AWS infrastructure concepts including S3, CloudFront, IAM and network segmentation. |
 | [BNU Accommodation Portal](https://github.com/future-stacks/programmingforbusinessCW) | A Node.js, Express and MySQL web application with role-based student and admin workflows. |
